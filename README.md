@@ -1,7 +1,7 @@
 # Avail
 Avail is a modular blockchain with a data availability layer designed to scale blockchain networks.
 
-#A nyone can run Light Node Avail's Clash of Nodes incentivized testnet
+#Anyone can run Light Node Avail's Clash of Nodes incentivized testnet
 # Let's knowledge about Avail's Clash of Nodes incentivized testnet
 Link: https://blog.availproject.org/introducing-avails-clash-of-nodes-incentivized-testnet/
 
