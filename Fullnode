@@ -28,6 +28,8 @@ WantedBy=multi-user.target
 EOF
 source ~/.bash_profile
 ```
+#Note:
+```Change "Lucky Research" to your node name```
 
 #Register and start service
 ```sudo systemctl daemon-reload
