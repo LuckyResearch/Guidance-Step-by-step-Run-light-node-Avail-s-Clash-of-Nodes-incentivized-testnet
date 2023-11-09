@@ -9,6 +9,7 @@ Avail is a modular blockchain with a data availability layer designed to scale b
 #Run only 1 command to install
 Source: https://github.com/NodeValidatorVN/GuideNode/tree/main/Avail
 
+![Version](https://github.com/LuckyResearch/Guidance-Step-by-step-Run-light-node-Avail-s-Clash-of-Nodes-incentivized-testnet/assets/122206232/47afd157-7026-4b7a-84cd-c6c82f6be325)
 ```
 wget -O avail https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/Avail/avail && chmod +x avail && ./avail
 ```
