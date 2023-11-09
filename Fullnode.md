@@ -9,7 +9,9 @@ Avail is a modular blockchain with a data availability layer designed to scale b
 #Run only 1 command to install
 Source: https://github.com/NodeValidatorVN/GuideNode/tree/main/Avail
 
-````wget -O avail https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/Avail/avail && chmod +x avail && ./avail```
+```
+wget -O avail https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/Avail/avail && chmod +x avail && ./avail
+```
 
 #Create SystemD
 ```
@@ -32,12 +34,16 @@ source ~/.bash_profile
 ```Change "Lucky Research" to your node name```
 
 #Register and start service
-```sudo systemctl daemon-reload
+```
+sudo systemctl daemon-reload
 sudo systemctl enable availd
-sudo systemctl restart availd```
+sudo systemctl restart availd
+```
 
 #Check logss
-```sudo journalctl -u availd -f -o cat```
+```
+sudo journalctl -u availd -f -o cat
+```
 
 #Check node on site
 Link: https://telemetry.avail.tools/
